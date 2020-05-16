@@ -1,0 +1,25 @@
+.badboy3X {
+  text-align:center;
+  margin-top: 200px;
+}
+
+.badboy3X img {
+  width:70px;
+}
+
+.badboy3X h1 {
+  margin:0;
+  color:#3F292B;
+}
+
+.badboy3X .x {
+  color: #ed1c24;
+  font-family: 'Balsamiq Sans', cursive;
+  font-size:40px;
+}
+.badboy3X .o {
+  color: #74526C;
+  font-family: 'Balsamiq Sans', cursive;
+  font-size:40px;
+}
+
